@@ -4,11 +4,11 @@ title: About
 permalink: /about/
 ---
 
-(m) insoluble agent
+> insoluble agent
 
-(-) historical itinerant
+> historical itinerant
 
-(w) affective medium
+> affective medium
 
 ### Contact
 
